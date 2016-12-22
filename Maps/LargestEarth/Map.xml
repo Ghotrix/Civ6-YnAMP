@@ -31,11 +31,12 @@
         <Replace MapName="LargestEarth" Civilization="CIVILIZATION_JAPAN"		X="127" Y="73" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_KONGO"		X="28" Y="34" />
 		<Replace MapName="LargestEarth" Civilization="CIVILIZATION_NORWAY"		X="26" Y="105" />
+        <Replace MapName="LargestEarth" Civilization="CIVILIZATION_POLAND"		X="38" Y="89" />
         <Replace MapName="LargestEarth" Civilization="CIVILIZATION_ROME"		X="26" Y="73" />
         <Replace MapName="LargestEarth" Civilization="CIVILIZATION_RUSSIA"		X="47" Y="93" />
         <Replace MapName="LargestEarth" Civilization="CIVILIZATION_SCYTHIA"		X="62" Y="87" />
         <Replace MapName="LargestEarth" Civilization="CIVILIZATION_SPAIN"		X="10" Y="71" />
-        <Replace MapName="LargestEarth" Civilization="CIVILIZATION_SUMERIA"		X="53" Y="63" />		
+        <Replace MapName="LargestEarth" Civilization="CIVILIZATION_SUMERIA"		X="53" Y="63" />
 	</StartPosition>
 		
 	<!-- Minors from Civ6 -->
